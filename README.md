@@ -1,3 +1,5 @@
+just trying out github desktop
+this is not the official vrt-cogs repo
 ![Arkwork](https://github.com/vertyco/Vertyco/blob/main/.github/resources/vrt-cogs-01.png)
 
 Various useful and fun cogs for Red V3.
