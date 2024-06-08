@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vrt-cogs\n"
+"POT-Creation-Date: 2024-02-08 18:29-0500\n"
+"PO-Revision-Date: 2024-02-08 23:50\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: redgettext 3.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: vrt-cogs\n"
+"X-Crowdin-Project-ID: 550681\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /main/levelup/utils/locales/messages.pot\n"
+"X-Crowdin-File-ID: 19\n"
+"Language: es_ES\n"
+
+#: utils\formatter.py:94
+msgid "None"
+msgstr "Ninguno"
+
+#: utils\formatter.py:97
+msgid " second"
+msgstr " segundo"
+
+#: utils\formatter.py:99
+msgid " seconds"
+msgstr " segundos"
+
+#: utils\formatter.py:102
+msgid " minute"
+msgstr " minuto"
+
+#: utils\formatter.py:104
+msgid " minutes"
+msgstr " minutos"
+
+#: utils\formatter.py:133
+#, docstring
+msgid "Get all attachments from context"
+msgstr "Obtener todos los archivos adjuntos del contexto"
+
+#: utils\formatter.py:156
+msgid "Global Weekly "
+msgstr ""
+
+#: utils\formatter.py:156
+msgid "Weekly "
+msgstr "Semanal "
+
+#: utils\formatter.py:159
+msgid "Global LevelUp "
+msgstr ""
+
+#: utils\formatter.py:159
+msgid "LevelUp "
+msgstr "LevelUp "
+
+#: utils\formatter.py:171
+msgid "Voice Leaderboard"
+msgstr "Clasificación por voz"
+
+#: utils\formatter.py:174
+msgid "Voicetime"
+msgstr "Tiempo de voz"
+
+#: utils\formatter.py:178
+msgid "Message Leaderboard"
+msgstr "Clasificación"
+
+#: utils\formatter.py:181
+msgid "Messages"
+msgstr "Mensajes"
+
+#: utils\formatter.py:185
+msgid "Star Leaderboard"
+msgstr "Clasificación por estrellas"
+
+#: utils\formatter.py:188
+msgid "Stars"
+msgstr "Estrellas"
+
+#: utils\formatter.py:192
+msgid "Exp Leaderboard"
+msgstr "Clasificación Exp"
+
+#: utils\formatter.py:195
+msgid "Exp"
+msgstr "Exp"
+
+#: utils\formatter.py:200
+msgid "Total "
+msgstr "Total "
+
+#: utils\formatter.py:203
+msgid "Last Reset: "
+msgstr "Último reinicio: "
+
+#: utils\formatter.py:206
+msgid "Next Reset: "
+msgstr "Siguiente Reinicio: "
+
+#: utils\formatter.py:208
+msgid "Total"
+msgstr "Total"
+
+#: utils\formatter.py:216
+msgid "There is no data for the weekly "
+msgstr "No hay datos para la semana "
+
+#: utils\formatter.py:216 utils\formatter.py:218
+msgid " leaderboard yet"
+msgstr " tabla de clasificación aún"
+
+#: utils\formatter.py:218
+msgid "There is no data for the "
+msgstr "No hay datos para el "
+
+#: utils\formatter.py:224
+msgid "You: "
+msgstr "Tú:"
+
+#: utils\formatter.py:272 utils\formatter.py:274
+msgid "Pages "
+msgstr "Páginas "
+
